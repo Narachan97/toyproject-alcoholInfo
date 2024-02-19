@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.2913feff.css",
+    "main.css": "./static/css/main.3481f261.css",
     "main.js": "./static/js/main.e869e79b.js",
     "static/js/592.fd3b2393.chunk.js": "./static/js/592.fd3b2393.chunk.js",
     "static/media/위스키 배경 사진.jpg": "./static/media/위스키 배경 사진.1fcfa62126dd19b2c5a3.jpg",
@@ -9,12 +9,12 @@
     "static/media/맥주 배경 사진.jpg": "./static/media/맥주 배경 사진.3058cf9f55a15e1fae14.jpg",
     "static/media/logo.svg": "./static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "./index.html",
-    "main.2913feff.css.map": "./static/css/main.2913feff.css.map",
+    "main.3481f261.css.map": "./static/css/main.3481f261.css.map",
     "main.e869e79b.js.map": "./static/js/main.e869e79b.js.map",
     "592.fd3b2393.chunk.js.map": "./static/js/592.fd3b2393.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2913feff.css",
+    "static/css/main.3481f261.css",
     "static/js/main.e869e79b.js"
   ]
 }
