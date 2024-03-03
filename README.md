@@ -4,3 +4,4 @@
 HTML/CSS/JavaScript
 React/React-Redux
 https://narachan97.github.io/toyproject-alcoholInfo/
+사이트 들어가시면 home 하면만 눌러주시면 감사하겠습니다
