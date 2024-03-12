@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/toyproject-alcoholInfo/static/css/main.f2f615f0.css",
+    "main.js": "/toyproject-alcoholInfo/static/js/main.2453b3c9.js",
+    "static/js/592.fd3b2393.chunk.js": "/toyproject-alcoholInfo/static/js/592.fd3b2393.chunk.js",
+    "static/media/위스키 배경 사진.jpg": "/toyproject-alcoholInfo/static/media/위스키 배경 사진.1fcfa62126dd19b2c5a3.jpg",
+    "static/media/메인배경사진.jpg": "/toyproject-alcoholInfo/static/media/메인배경사진.a34d289adf9c8aa7d555.jpg",
+    "static/media/배경화면.png": "/toyproject-alcoholInfo/static/media/배경화면.68fb162767dbdf968dea.png",
+    "static/media/맥주 배경 사진.jpg": "/toyproject-alcoholInfo/static/media/맥주 배경 사진.3058cf9f55a15e1fae14.jpg",
+    "static/media/logo.svg": "/toyproject-alcoholInfo/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/toyproject-alcoholInfo/index.html",
+    "main.f2f615f0.css.map": "/toyproject-alcoholInfo/static/css/main.f2f615f0.css.map",
+    "main.2453b3c9.js.map": "/toyproject-alcoholInfo/static/js/main.2453b3c9.js.map",
+    "592.fd3b2393.chunk.js.map": "/toyproject-alcoholInfo/static/js/592.fd3b2393.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2f615f0.css",
+    "static/js/main.2453b3c9.js"
+  ]
+}
